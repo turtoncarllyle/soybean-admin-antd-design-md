@@ -48,8 +48,8 @@
 
 发布前验证当前 GitHub 登录账号为 turtoncarllyle，目标仓库不存在。发布动作应依次完成：
 
-1. 初始化 E:\soybean-admin-antd\soybean-admin-antd-md 的 main 分支并提交文档。
-2. 创建公开仓库 turtoncarllyle/soybean-admin-antd-md，推送 main。
+1. 初始化 E:\github\admin-ui-design-md\soybean-admin-antd\soybean-admin-antd-design-md 的 main 分支并提交文档。
+2. 创建公开仓库 turtoncarllyle/soybean-admin-antd-design-md，推送 main。
 3. 创建并推送 v1.3.11 标签。
 4. 创建标题为 Soybean Admin AntDesignVue DESIGN.md v1.3.11 的 Release，并附加 DESIGN.md、DESIGN.zh-CN.md。
 5. 只读核对远端默认分支、标签、Release、附件和工作区干净状态。

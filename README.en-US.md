@@ -1,4 +1,4 @@
-# soybean-admin-antd-md
+# soybean-admin-antd-design-md
 
 [简体中文](README.md) | [English](README.en-US.md)
 
@@ -14,7 +14,7 @@ This repository turns the visual tokens, application shell, Ant Design Vue compo
 
 | Version | Canonical English | Simplified Chinese | Initial release |
 | --- | --- | --- | --- |
-| `1.3.11` | [DESIGN.md](versions/1.3.11/DESIGN.md) | [DESIGN.zh-CN.md](versions/1.3.11/DESIGN.zh-CN.md) | [v1.3.11 Release](https://github.com/turtoncarllyle/soybean-admin-antd-md/releases/tag/v1.3.11) |
+| `1.3.11` | [DESIGN.md](versions/1.3.11/DESIGN.md) | [DESIGN.zh-CN.md](versions/1.3.11/DESIGN.zh-CN.md) | [v1.3.11 Release](https://github.com/turtoncarllyle/soybean-admin-antd-design-md/releases/tag/v1.3.11) |
 
 - [Preview](https://antd.soybeanjs.cn/)
 - [GitHub repository](https://github.com/soybeanjs/soybean-admin-antd)
@@ -43,7 +43,7 @@ Download the canonical English edition for `1.3.11`:
 
 ```powershell
 Invoke-WebRequest `
-  -Uri "https://raw.githubusercontent.com/turtoncarllyle/soybean-admin-antd-md/main/versions/1.3.11/DESIGN.md" `
+  -Uri "https://raw.githubusercontent.com/turtoncarllyle/soybean-admin-antd-design-md/main/versions/1.3.11/DESIGN.md" `
   -OutFile ".\DESIGN.md"
 ```
 
@@ -51,7 +51,7 @@ Download the Simplified Chinese edition for `1.3.11`:
 
 ```powershell
 Invoke-WebRequest `
-  -Uri "https://raw.githubusercontent.com/turtoncarllyle/soybean-admin-antd-md/main/versions/1.3.11/DESIGN.zh-CN.md" `
+  -Uri "https://raw.githubusercontent.com/turtoncarllyle/soybean-admin-antd-design-md/main/versions/1.3.11/DESIGN.zh-CN.md" `
   -OutFile ".\DESIGN.md"
 ```
 

@@ -1,4 +1,4 @@
-# soybean-admin-antd-md
+# soybean-admin-antd-design-md
 
 [简体中文](README.md) | [English](README.en-US.md)
 
@@ -14,7 +14,7 @@
 
 | 版本 | 英文标准版 | 简体中文版 | 首次发布 |
 | --- | --- | --- | --- |
-| `1.3.11` | [DESIGN.md](versions/1.3.11/DESIGN.md) | [DESIGN.zh-CN.md](versions/1.3.11/DESIGN.zh-CN.md) | [v1.3.11 Release](https://github.com/turtoncarllyle/soybean-admin-antd-md/releases/tag/v1.3.11) |
+| `1.3.11` | [DESIGN.md](versions/1.3.11/DESIGN.md) | [DESIGN.zh-CN.md](versions/1.3.11/DESIGN.zh-CN.md) | [v1.3.11 Release](https://github.com/turtoncarllyle/soybean-admin-antd-design-md/releases/tag/v1.3.11) |
 
 - [预览地址](https://antd.soybeanjs.cn/)
 - [Github 仓库](https://github.com/soybeanjs/soybean-admin-antd)
@@ -43,7 +43,7 @@
 
 ```powershell
 Invoke-WebRequest `
-  -Uri "https://raw.githubusercontent.com/turtoncarllyle/soybean-admin-antd-md/main/versions/1.3.11/DESIGN.md" `
+  -Uri "https://raw.githubusercontent.com/turtoncarllyle/soybean-admin-antd-design-md/main/versions/1.3.11/DESIGN.md" `
   -OutFile ".\DESIGN.md"
 ```
 
@@ -51,7 +51,7 @@ Invoke-WebRequest `
 
 ```powershell
 Invoke-WebRequest `
-  -Uri "https://raw.githubusercontent.com/turtoncarllyle/soybean-admin-antd-md/main/versions/1.3.11/DESIGN.zh-CN.md" `
+  -Uri "https://raw.githubusercontent.com/turtoncarllyle/soybean-admin-antd-design-md/main/versions/1.3.11/DESIGN.zh-CN.md" `
   -OutFile ".\DESIGN.md"
 ```
 
